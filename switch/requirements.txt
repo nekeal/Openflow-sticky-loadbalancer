@@ -9,9 +9,6 @@ eventlet==0.30.2
 executing==1.2.0
 greenlet==2.0.1
 idna==3.4
-ipdb==0.13.11
-ipython==8.8.0
-jedi==0.18.2
 matplotlib-inline==0.1.6
 msgpack==1.0.4
 netaddr==0.8.0
